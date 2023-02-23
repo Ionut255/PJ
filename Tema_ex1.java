@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Team_ex1 {
+public class Tema_ex1 {
 
     public static void main(String[] args) {
         System.out.println("L=");
