@@ -1,3 +1,4 @@
+package Random;
 import java.io.*;
 import java.util.Scanner;
 
